@@ -1,4 +1,4 @@
-Very briefly, team todo during this sprint?
+Really quickly, team todo during this sprint?
 	Unclear, adapting legacy framework to new prototype.  it is needed.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
 	Does not see it as a problem. Progress of the product is spammy, very spammy. Does not see problems of spam between teams.

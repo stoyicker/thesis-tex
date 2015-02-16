@@ -1,16 +1,16 @@
-Really quickly, team todo during this sprint?
-	3 US, (1) feature, (2) analysis for faults CRA-LRH error hand, (3) pre-pre-study for GCH. Other minor stuff as well.
+Really quickly, todo during this sprint?
+	Maintenance, fix details.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
-	Attending every daily scrum. Would like a reserved time schedule for always be able to attend.
+	Feels comfortable with current way.
 In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
-	Phone is rare, e-mail sometimes. Tries to avoid e-mail if it is information that will cause reactions. Often only talks to the Scrum Master.
+	F2F when within team. E-mail if not present or not in team or really busy.
 Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
-	Product information (TC results, TRs stuff). 
+	Line-related.
 List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
-	Most face-to-face, minor e-mails.
+	Lync (quick responses), F2F, e-mail.
 Anything else you would like to mention?
-	Wants some more communication with the coach, delimit his role a little bit better. More of an active personality.
+	Takes time to know what the target of the communication knows and doesn't know (even in the same team).
 role
-	OPO.
+	Developer
 team
-	Snowbirds.
+	Aguilera

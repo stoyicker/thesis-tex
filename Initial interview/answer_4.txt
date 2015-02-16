@@ -1,5 +1,4 @@
-
-Very briefly, team todo during this sprint?
+Really quickly, team todo during this sprint?
 	Pre-pre study GCH, Generic Code Handling, black-box testing. Remainders from a previous issue.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
 	Within the team it is good. Pair programming. They need to control so that the OPO and the coach attend the daily meeting.

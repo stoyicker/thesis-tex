@@ -1,2 +1,0 @@
-eval `ssh-agent.exe`
-ssh-add C:/Users/ejorgdi/Desktop/.ssh/id_rsa
