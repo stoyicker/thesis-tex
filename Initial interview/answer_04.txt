@@ -1,0 +1,19 @@
+Really quickly, team todo during this sprint?
+	Pre-pre study GCH, Generic Code Handling, black-box testing. Remainders from a previous issue.
+How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
+	Within the team it is good. Pair programming. They need to control so that the OPO and the coach attend the daily meeting.
+In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
+	Face-to-face, if not urgent. Not really flowed comm with PG.
+Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
+	Does not describe it as annoying. TR groups, why do we get invos to their meetings?
+List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
+	Section meeting (for the line manager), good to share. E-mail is not as reliable as it seems.
+Anything else you would like to mention?
+	Common rules for e-mail handling. For example, avoid "put-x-just-in-case".
+	A new way to write e-mails so that it is clear who has to do what.
+	Rather meetings than e-mail, it annoyes more people and is slowlier.
+	Learn to use the phone if it is urgent!
+role
+	Developer.
+team
+	Snowbirds.

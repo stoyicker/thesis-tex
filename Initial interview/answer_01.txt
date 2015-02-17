@@ -1,0 +1,17 @@
+Really quickly, team todo during this sprint?
+	Unclear, adapting legacy framework to new prototype.  it is needed.
+How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
+	Does not see it as a problem. Progress of the product is spammy, very spammy. Does not see problems of spam between teams.
+In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
+	Depends on WHERE they sit. If he wants them to remember for more than today, e-mail. OTherwise, mostly talk within the team, otherwise mostly e-mail outside, unless urgent or known target (for chat).
+Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
+	Product-related, "they think it is good that everybody knows about the project", but their information is not purely related to its own task. He would rather to find the information by themselves.
+	5 or 6 daily.
+List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
+	Lync, e-mail, cell-phone, face chat. Lync and cell-phone are no longer that prominent.
+Anything else you would like to mention?
+	Desires more face-to-face or phone-to-phone interactions. Lync is what the organisation is trying as alternative, but not really working.
+role
+	Developer
+team
+	Snowbirds.

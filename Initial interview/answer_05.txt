@@ -1,0 +1,16 @@
+Really quickly, todo during this sprint?
+	Maintenance, fix details.
+How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
+	Feels comfortable with current way.
+In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
+	F2F when within team. E-mail if not present or not in team or really busy.
+Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
+	Line-related.
+List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
+	Lync (quick responses), F2F, e-mail.
+Anything else you would like to mention?
+	Takes time to know what the target of the communication knows and doesn't know (even in the same team).
+role
+	Developer
+team
+	Aguilera
