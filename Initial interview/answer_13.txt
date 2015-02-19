@@ -1,16 +1,16 @@
 Really quickly, todo during this sprint?
-	
+	Does not know.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
-	
+	Thinks they have very good communication with the devs, but not with the coach. He doesnt think he needs to carry the initiative.
 In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
-	
+ F2F whenever possible, takes less time, better comm. Lync if he's in a meeting, if person is not available then e-mail. Tries to speak to the OPO instead of the developers.
 Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
-	
+	From the team no. He gets a lot of information no really valuable for him that he routes.
 List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
-	
+	F2F, Lync, e-mail. Phone not really an option.
 Anything else you would like to mention?
-	
+	The team wants him to join the daily Scrums but he cannot always (he does it when he has something to say). He tries to go to the sprint reviews.
 role
-	
+	Product Guardian.
 team
-	
+	Aguilera.
