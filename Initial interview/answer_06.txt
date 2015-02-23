@@ -1,4 +1,4 @@
-Really quickly, todo during this sprint?
+Really quickly, team todo during this sprint?
 	Generic Conf Handling, KP5 build env.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
 	Good comm with OPO, follows team habits. PG no problem.

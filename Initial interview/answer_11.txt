@@ -1,9 +1,9 @@
-Really quickly, todo during this sprint?
+Really quickly, team todo during this sprint?
 	Deliver some of GCH, testing. Refactoring for deliver.
 How would you improve communication within your team and its closest context (PG, OPO, coach, Scrum Master)?
 	They barely have any comm with the team coaches. He wants him at the daily scrums. But he says that they have too much things to do as LM as well.
 In regards to your role only, when you want to distribute information how do you choose how to do it and how to send it to?
-	For long-term oriented information, otherwise prefer F2F. The OPO is close to the team, is not away. The PG is talkative.
+	For long-term oriented information e-mail, otherwise prefer F2F. The OPO is close to the team, is not away. The PG is talkative.
 Between product-related, project-level, line-related (management topics) and other sources of information, which is the one disturbing you the most with information that lacks a practical value for you?
 	TRs, line-related.
 List different ways of distributing information within your team and its closest context (PG, OPO, coach, Scrum Master) that you are using now or expect to use in the short future. (e-mail, for example)
@@ -11,5 +11,7 @@ List different ways of distributing information within your team and its closest
 Anything else you would like to mention?
 	(could be an outlier) they don't feel included in the criteria for decision-making. Changing processes for example. It's on the PG's part. They feel like without the contact network they would lose at all.
 	As for working with other teams, he would like everybody to join each other's meetings. (for related teams).
+role
+	devel
 team
 	Aguilera (this is a framework team)
