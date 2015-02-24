@@ -12,6 +12,6 @@ Anything else you would like to mention?
 	(could be an outlier) they don't feel included in the criteria for decision-making. Changing processes for example. It's on the PG's part. They feel like without the contact network they would lose at all.
 	As for working with other teams, he would like everybody to join each other's meetings. (for related teams).
 role
-	devel
+	Scrum Master
 team
 	Aguilera (this is a framework team)
