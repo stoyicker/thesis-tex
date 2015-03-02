@@ -1,0 +1,32 @@
+google.setOnLoadCallback(drawChart);
+function drawChart() {
+
+  var data = google.visualization.arrayToDataTable([
+    ['Characterization', 'Percentage'],
+    ['Positive', 50],
+    ['Negative', 50]
+  ]);
+
+  var options = {
+    title: '',
+    slices: {
+      0: { color: '#08cf5e' },
+      1: { color: '#c42b2b' }
+    },
+    pieSliceTextStyle: {
+      color: 'white',
+      fontName: "Ubuntu",
+      bold: true
+    },
+    legend: {
+      textStyle: {
+          fontName: "Ubuntu",
+          bold: true
+      }
+    }
+  };
+
+  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+
+  chart.draw(data, options);
+}
