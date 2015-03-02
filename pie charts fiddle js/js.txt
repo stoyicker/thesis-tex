@@ -5,7 +5,7 @@ function drawChart() {
     ['Characterization', 'Percentage'],
     ['Positive', 50],
     ['Negative', 50]
-  ]);
+  ]);#07c101
 
   var options = {
     title: '',
