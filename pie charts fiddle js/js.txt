@@ -2,31 +2,27 @@ google.setOnLoadCallback(drawChart);
 function drawChart() {
 
   var data = google.visualization.arrayToDataTable([
-    ['Characterization', 'Percentage'],
-    ['Positive', 50],
-    ['Negative', 50]
-  ]);#07c101
+    ['Reference presence', 'Amount'],
+    ['Interested', 4],
+    ['No response', 9],
+    ['Not interested', 0]
+  ]);
 
   var options = {
-    title: '',
-    slices: {
-      0: { color: '#08cf5e' },
-      1: { color: '#c42b2b' }
-    },
     pieSliceTextStyle: {
       color: 'white',
-      fontName: "Ubuntu",
+      font: 'Ubuntu',
       bold: true
     },
-    legend: {
-      textStyle: {
-          fontName: "Ubuntu",
-          bold: true
-      }
-    }
+    pieSliceText: 'value',
+        legend: {
+textStyle: {
+    fontName: "Ubuntu",
+    bold: true
+}
+}
   };
 
-  var chart = new google.visualization.PieChart(document.getElementById('piechart'));
-
+  var chart = new google.visualization.PieChart(document.getElementById('donut_single'));
   chart.draw(data, options);
 }
