@@ -1,28 +1,36 @@
 google.setOnLoadCallback(drawChart);
+
 function drawChart() {
 
-  var data = google.visualization.arrayToDataTable([
-    ['Reference presence', 'Amount'],
-    ['Interested', 4],
-    ['No response', 9],
-    ['Not interested', 0]
-  ]);
+    var data = google.visualization.arrayToDataTable([
+        ['Reference character', 'Percentage'],
+        ['Positive', 40],
+        ['Negative', 60]
+    ]);
 
-  var options = {
-    pieSliceTextStyle: {
-      color: 'white',
-      font: 'Ubuntu',
-      bold: true
-    },
-    pieSliceText: 'value',
+    var options = {
+        pieSliceTextStyle: {
+            color: 'white',
+            font: 'Ubuntu',
+            bold: true
+        },
+        pieSliceText: 'value',
         legend: {
-textStyle: {
-    fontName: "Ubuntu",
-    bold: true
-}
-}
-  };
+            textStyle: {
+                fontName: "Ubuntu",
+                bold: true
+            }
+        },
+        slices: {
+            0: {
+                color: 'green'
+            },
+            1: {
+                color: 'red'
+            }
+        }
+    };
 
-  var chart = new google.visualization.PieChart(document.getElementById('donut_single'));
-  chart.draw(data, options);
+    var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+    chart.draw(data, options);
 }
